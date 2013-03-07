@@ -8,7 +8,6 @@ yhtools
 
 1. Debian Squeeze 或 Ubuntu 10.10 以上並必須安裝 X-Window 視窗
 1. python3.1.x, python3-tk(8.5以上)
-	
 	apt-get update; apt-get install python3 python3-tk
 
 2. 各工具簡介
