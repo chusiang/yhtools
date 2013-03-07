@@ -1,7 +1,4 @@
-yhtools
-=======
-
-http://myip.tw/itsmw/index.php?title=YHTools　本套工具的開發工具有兩種，一種是以 python3.x 開發（副檔名為 pyw），需要
+　本套工具的開發工具有兩種，一種是以 python3.x 開發（副檔名為 pyw），需要
 圖形化介面暨 UTF-8 中文顯示的能力，因此請在具有 python3 環境下的 linux 套
 件執行。另一種是 BASH ，副檔名為「.sh」可直接在終端機畫面執行。
 
