@@ -14,8 +14,7 @@ yhtools
 2. 各工具簡介
 --------
 
-請參考: http://myip.tw/itsmw/index.php/YHTools
-
+* 請參考: [YHTools:3.4 各工具簡介 - Itsmw](http://myip.tw/itsmw/index.php?title=YHTools#.E5.90.84.E5.B7.A5.E5.85.B7.E7.B0.A1.E4.BB.8B)
 
 3. 工具集程式列表
 --------
